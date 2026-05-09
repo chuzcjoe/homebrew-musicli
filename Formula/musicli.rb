@@ -3,8 +3,8 @@ class Musicli < Formula
 
   desc "YouTube music player for the terminal"
   homepage "https://github.com/chuzcjoe/musicli"
-  url "https://github.com/chuzcjoe/musicli/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "257500cb3ad947a1446fa17ef73c9bf4212842b4c8fadd4a17e572594528708d"
+  url "https://github.com/chuzcjoe/musicli/archive/refs/tags/v0.0.2.tar.gz"
+  sha256 "4867d83c25bd6b508f061064d3410f3cad38b524524537bd5f2f8a66d45aabeb"
   license "MIT"
   head "https://github.com/chuzcjoe/musicli.git", branch: "master"
 
