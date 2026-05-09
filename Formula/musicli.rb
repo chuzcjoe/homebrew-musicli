@@ -3,8 +3,8 @@ class Musicli < Formula
 
   desc "YouTube music player for the terminal"
   homepage "https://github.com/YOUR_GITHUB_USERNAME/musicli"
-  url "https://github.com/YOUR_GITHUB_USERNAME/musicli/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "FILL_IN: run `shasum -a 256` on the downloaded tarball after creating the GitHub release"
+  url "https://github.com/YOUR_GITHUB_USERNAME/musicli/archive/refs/tags/v0.0.1.tar.gz"
+  sha256 "1b7b849e44d6f45fa82c8ce315efd64c013dcfe241280c5160aa759b4f988f2d"
   license "MIT"
   head "https://github.com/YOUR_GITHUB_USERNAME/musicli.git", branch: "main"
 
