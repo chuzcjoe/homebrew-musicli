@@ -2,11 +2,11 @@ class Musicli < Formula
   include Language::Python::Virtualenv
 
   desc "YouTube music player for the terminal"
-  homepage "https://github.com/YOUR_GITHUB_USERNAME/musicli"
-  url "https://github.com/YOUR_GITHUB_USERNAME/musicli/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "1b7b849e44d6f45fa82c8ce315efd64c013dcfe241280c5160aa759b4f988f2d"
+  homepage "https://github.com/chuzcjoe/musicli"
+  url "https://github.com/chuzcjoe/musicli/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "257500cb3ad947a1446fa17ef73c9bf4212842b4c8fadd4a17e572594528708d"
   license "MIT"
-  head "https://github.com/YOUR_GITHUB_USERNAME/musicli.git", branch: "main"
+  head "https://github.com/chuzcjoe/musicli.git", branch: "master"
 
   # External tools — already in Homebrew core, no manual install needed
   depends_on "mpv"
